@@ -83,10 +83,10 @@ You can also do the same for MetaMask. Make sure to purchase higher amounts of t
 
 Deploy the crowdsale to the Kovan or Ropsten testnet, and store the deployed address for later. Switch MetaMask to your desired network, and use the `Deploy` tab in Remix to deploy your contracts. Take note of the total gas cost, and compare it to how costly it would be in reality. Since you are deploying to a network that you don't have control over, faucets will not likely give out 300 test Ether. You can simply reduce the goal when deploying to a testnet to an amount much smaller, like 10,000 wei.
 
-### Submission
+### My Submission
 
-Create a Github repo, and a `README.md` file explaining the process for purchasing PupperCoin (or whatever name you came up with).
-
-Ensure that anyone can run the steps and add the token to MyCrypto, or a similar wallet.
-
-Include information such as the token parameters, token name, crowdsale cap, etc.
+- I had trouble downloading my files to the Readme, however I added them to the repository.
+- I compiled both Puppercoin and the PupperCoinCrawdsale files. 
+- Then created the name, symbol and Supply. 
+- Then Transacted to a wallet.
+- I had difficulty completing the transaction to my wallet, purchasing tokens and checking balances. 
